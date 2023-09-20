@@ -1,4 +1,5 @@
 # Summarizing-Indian-Legal-Documents-A-Comparative-Study-of-Models-and-Techniques
 This repo contains the judgment data which is used to conduct the experiment for our paper [A Comprehensive Analysis of Indian Legal Documents Summarization 
 Techniques](https://link.springer.com/article/10.1007/s42979-023-01983-y#:~:text=The%20models%20that%20are%20taken,in%20the%20case%20legal%20summarization.)
+
 To conduct our research on Indian legal document summarization, we used 30 publicly available legal documents from the Indian Kanoon website (www.indiankanoon.org). We have uploaded these documents to our GitHub repository for the purpose of our research. It is important to note that Indian Kanoon is a third-party website and we do not claim any ownership or responsibility for the content available on their website. We have provided proper attribution and citation to Indian Kanoon as the source of our legal documents in this repository. Users are advised to refer to the Indian Kanoon website for any legal or official purposes.
